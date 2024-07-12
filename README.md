@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/bri-kirchgessner-595894255/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
   </a>
-  <a href="kirchgessner@wisc.edu" target="_blank">
+  <a href="mailto:kirchgessner@wisc.edu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="30" height="20" alt="microsoft-outlook logo"  />
   </a>
   </a>
