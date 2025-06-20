@@ -13,7 +13,7 @@
 <h2 align="left">Hi! I'm Bri Kirchgessner</h2>
 
 ###
-<p align="left">A passionate undergraduate Computer Sciences student at the University of Wisconsin - Madison, with an interest in Software Engineering and Web Development.</p>
+<p align="left">A passionate recent-graduate of Computer Sciences from the University of Wisconsin - Madison, with an interest in Software Engineering and Web Development.</p>
 
 ###
 <h3 align="left">Tech Stack</h3>
@@ -60,9 +60,7 @@
 
 ###
 
-- I'm working on developing an Android privacy-scanning application, SafeScan, under the guidance of Professor Rahul Chatterjee at MadS&P lab, enhancing user awareness of installed applications and privacy implications for IPV Victims.
-
-- I am additionally developing a full-stack e-commerce web application for Echo The Label, utilizing Node.js with Express, EJS, and MongoDB.
+- I've working on the development of an Android privacy-scanning application, SafeScan, under the guidance of Professor Rahul Chatterjee at MadS&P lab, enhancing user awareness of installed applications and privacy implications for IPV Victims.
 
 ###
 
