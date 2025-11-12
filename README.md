@@ -60,7 +60,8 @@
 
 ###
 
-- I've working on the development of an Android privacy-scanning application, SafeScan, under the guidance of Professor Rahul Chatterjee at MadS&P lab, enhancing user awareness of installed applications and privacy implications for IPV Victims.
+- I've worked on the development of an Android privacy-scanning application, SafeScan, under the guidance of Professor Rahul Chatterjee at MadS&P lab, enhancing user awareness of installed applications and privacy implications for IPV Victims.
+- I'm a current freelance Web and App Designer & Developer.
 
 ###
 
